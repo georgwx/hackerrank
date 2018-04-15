@@ -1,0 +1,5 @@
+﻿  algorithm_implementation_append_and_delet.cpp
+c:\users\georg\downloads\documents\github\hackerrank\algorithm_implementation_append_and_delet\algorithm_implementation_append_and_delet\algorithm_implementation_append_and_delet.cpp(14): warning C4018: '<=': signed/unsigned mismatch
+c:\users\georg\downloads\documents\github\hackerrank\algorithm_implementation_append_and_delet\algorithm_implementation_append_and_delet\algorithm_implementation_append_and_delet.cpp(50): warning C4715: 'appendAndDelete': not all control paths return a value
+  algorithm_implementation_append_and_delet.vcxproj -> C:\Users\Georg\Downloads\Documents\GitHub\hackerrank\algorithm_implementation_append_and_delet\Debug\algorithm_implementation_append_and_delet.exe
+  algorithm_implementation_append_and_delet.vcxproj -> C:\Users\Georg\Downloads\Documents\GitHub\hackerrank\algorithm_implementation_append_and_delet\Debug\algorithm_implementation_append_and_delet.pdb (Full PDB)

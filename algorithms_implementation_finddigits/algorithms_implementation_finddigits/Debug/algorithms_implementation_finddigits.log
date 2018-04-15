@@ -1,0 +1,4 @@
+﻿  algorithms_implementation_finddigits.cpp
+c:\users\georg\downloads\documents\github\hackerrank\algorithms_implementation_finddigits\algorithms_implementation_finddigits\algorithms_implementation_finddigits.cpp(13): warning C4018: '<': signed/unsigned mismatch
+  algorithms_implementation_finddigits.vcxproj -> C:\Users\Georg\Downloads\Documents\GitHub\hackerrank\algorithms_implementation_finddigits\Debug\algorithms_implementation_finddigits.exe
+  algorithms_implementation_finddigits.vcxproj -> C:\Users\Georg\Downloads\Documents\GitHub\hackerrank\algorithms_implementation_finddigits\Debug\algorithms_implementation_finddigits.pdb (Full PDB)

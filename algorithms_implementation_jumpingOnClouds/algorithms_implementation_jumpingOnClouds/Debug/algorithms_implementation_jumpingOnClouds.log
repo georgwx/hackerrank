@@ -1,0 +1,6 @@
+﻿  algorithms_implementation_jumpingOnClouds.cpp
+c:\users\georg\downloads\documents\github\hackerrank\algorithms_implementation_jumpingonclouds\algorithms_implementation_jumpingonclouds\algorithms_implementation_jumpingonclouds.cpp(14): warning C4018: '<': signed/unsigned mismatch
+c:\users\georg\downloads\documents\github\hackerrank\algorithms_implementation_jumpingonclouds\algorithms_implementation_jumpingonclouds\algorithms_implementation_jumpingonclouds.cpp(20): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\georg\downloads\documents\github\hackerrank\algorithms_implementation_jumpingonclouds\algorithms_implementation_jumpingonclouds\algorithms_implementation_jumpingonclouds.cpp(25): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  algorithms_implementation_jumpingOnClouds.vcxproj -> C:\Users\Georg\Downloads\Documents\GitHub\hackerrank\algorithms_implementation_jumpingOnClouds\Debug\algorithms_implementation_jumpingOnClouds.exe
+  algorithms_implementation_jumpingOnClouds.vcxproj -> C:\Users\Georg\Downloads\Documents\GitHub\hackerrank\algorithms_implementation_jumpingOnClouds\Debug\algorithms_implementation_jumpingOnClouds.pdb (Full PDB)

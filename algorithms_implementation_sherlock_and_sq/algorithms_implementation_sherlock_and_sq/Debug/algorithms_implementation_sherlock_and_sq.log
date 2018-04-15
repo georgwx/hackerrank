@@ -1,0 +1,5 @@
+﻿  algorithms_implementation_sherlock_and_sq.cpp
+c:\users\georg\downloads\documents\github\hackerrank\algorithms_implementation_sherlock_and_sq\algorithms_implementation_sherlock_and_sq\algorithms_implementation_sherlock_and_sq.cpp(11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\georg\downloads\documents\github\hackerrank\algorithms_implementation_sherlock_and_sq\algorithms_implementation_sherlock_and_sq\algorithms_implementation_sherlock_and_sq.cpp(12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  algorithms_implementation_sherlock_and_sq.vcxproj -> C:\Users\Georg\Downloads\Documents\GitHub\hackerrank\algorithms_implementation_sherlock_and_sq\Debug\algorithms_implementation_sherlock_and_sq.exe
+  algorithms_implementation_sherlock_and_sq.vcxproj -> C:\Users\Georg\Downloads\Documents\GitHub\hackerrank\algorithms_implementation_sherlock_and_sq\Debug\algorithms_implementation_sherlock_and_sq.pdb (Full PDB)

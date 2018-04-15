@@ -1,0 +1,5 @@
+﻿  algorithms_implementation_minimum_distanc.cpp
+c:\users\georg\downloads\documents\github\hackerrank\algorithms_implementation_minimum_distanc\algorithms_implementation_minimum_distanc\algorithms_implementation_minimum_distanc.cpp(16): warning C4018: '<': signed/unsigned mismatch
+c:\users\georg\downloads\documents\github\hackerrank\algorithms_implementation_minimum_distanc\algorithms_implementation_minimum_distanc\algorithms_implementation_minimum_distanc.cpp(27): warning C4018: '<': signed/unsigned mismatch
+  algorithms_implementation_minimum_distanc.vcxproj -> C:\Users\Georg\Downloads\Documents\GitHub\hackerrank\algorithms_implementation_minimum_distanc\Debug\algorithms_implementation_minimum_distanc.exe
+  algorithms_implementation_minimum_distanc.vcxproj -> C:\Users\Georg\Downloads\Documents\GitHub\hackerrank\algorithms_implementation_minimum_distanc\Debug\algorithms_implementation_minimum_distanc.pdb (Full PDB)

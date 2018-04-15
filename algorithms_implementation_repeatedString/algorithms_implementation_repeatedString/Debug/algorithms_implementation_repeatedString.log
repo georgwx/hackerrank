@@ -1,0 +1,4 @@
+﻿  algorithms_implementation_repeatedString.cpp
+c:\users\georg\downloads\documents\github\hackerrank\algorithms_implementation_repeatedstring\algorithms_implementation_repeatedstring\algorithms_implementation_repeatedstring.cpp(17): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+  algorithms_implementation_repeatedString.vcxproj -> C:\Users\Georg\Downloads\Documents\GitHub\hackerrank\algorithms_implementation_repeatedString\Debug\algorithms_implementation_repeatedString.exe
+  algorithms_implementation_repeatedString.vcxproj -> C:\Users\Georg\Downloads\Documents\GitHub\hackerrank\algorithms_implementation_repeatedString\Debug\algorithms_implementation_repeatedString.pdb (Full PDB)

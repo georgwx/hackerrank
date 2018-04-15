@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  algorithms_implementation_equalizearrays.cpp
+c:\users\georg\downloads\documents\github\hackerrank\algorithms_implementation_equalizearrays\algorithms_implementation_equalizearrays\algorithms_implementation_equalizearrays.cpp(14): warning C4018: '<': signed/unsigned mismatch
+  algorithms_implementation_equalizearrays.vcxproj -> C:\Users\Georg\Downloads\Documents\GitHub\hackerrank\algorithms_implementation_equalizearrays\Debug\algorithms_implementation_equalizearrays.exe
+  algorithms_implementation_equalizearrays.vcxproj -> C:\Users\Georg\Downloads\Documents\GitHub\hackerrank\algorithms_implementation_equalizearrays\Debug\algorithms_implementation_equalizearrays.pdb (Full PDB)

@@ -1,0 +1,5 @@
+﻿  algorithms_implementation_cutthesticks.cpp
+c:\users\georg\downloads\documents\github\hackerrank\algorithms_implementation_cutthesticks\algorithms_implementation_cutthesticks\algorithms_implementation_cutthesticks.cpp(17): warning C4018: '<': signed/unsigned mismatch
+c:\users\georg\downloads\documents\github\hackerrank\algorithms_implementation_cutthesticks\algorithms_implementation_cutthesticks\algorithms_implementation_cutthesticks.cpp(39): warning C4018: '<': signed/unsigned mismatch
+  algorithms_implementation_cutthesticks.vcxproj -> C:\Users\Georg\Downloads\Documents\GitHub\hackerrank\algorithms_implementation_cutthesticks\Debug\algorithms_implementation_cutthesticks.exe
+  algorithms_implementation_cutthesticks.vcxproj -> C:\Users\Georg\Downloads\Documents\GitHub\hackerrank\algorithms_implementation_cutthesticks\Debug\algorithms_implementation_cutthesticks.pdb (Full PDB)
